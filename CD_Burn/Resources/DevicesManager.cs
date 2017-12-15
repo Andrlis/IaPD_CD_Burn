@@ -1,14 +1,9 @@
 ﻿using IMAPI2.Interop;
-using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
-namespace Resources.BurnMedia
-{
+namespace CD_Burn.Resources
+{ 
     class DevicesManager
     {
         private MsftDiscMaster2 discMaster;

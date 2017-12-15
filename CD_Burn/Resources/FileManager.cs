@@ -7,7 +7,7 @@ using System.Runtime.InteropServices;
 using System.Runtime.InteropServices.ComTypes;
 using System.Windows.Forms;
 
-namespace Resources.BurnMedia
+namespace CD_Burn.Resources
 {
     class FileManager
     {
